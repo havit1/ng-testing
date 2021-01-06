@@ -1,1 +1,1 @@
-Practicing testing in angular
+Practice testing in angular
